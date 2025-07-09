@@ -1,4 +1,6 @@
-
+window.addEventListener("load", () => {
+  window.addEventListener("keypress", checkKeyPress)
+})
 
 
 /*
